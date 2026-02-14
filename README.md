@@ -51,3 +51,16 @@ Controller → Service → Repository → Database
 ---
 
 
+---
+
+## 🔗 REST API Endpoints
+
+| Method | Endpoint | Description |
+|--------|----------|-------------|
+| POST   | /api/employees | Create Employee |
+| GET    | /api/employees | Get All Employees |
+| GET    | /api/employees/{id} | Get Employee by ID |
+| PUT    | /api/employees/{id} | Update Employee |
+| DELETE | /api/employees/{id} | Delete Employee |
+
+---
